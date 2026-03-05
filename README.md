@@ -28,7 +28,8 @@
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
   &nbsp;
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-  <br>
+</div>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
   &nbsp;
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
