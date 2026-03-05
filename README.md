@@ -9,45 +9,45 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=v" height="60" alt="v logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=v" height="60" alt="v logo" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
 </div>
 
 ###
