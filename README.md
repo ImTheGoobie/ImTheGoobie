@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gabriel or Goobie!</h1>
+<h1 align="center">Hi, I'm Gabriel!</h1>
 
 ###
 
